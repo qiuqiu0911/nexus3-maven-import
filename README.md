@@ -7,7 +7,7 @@
 2.  将脚本拷贝到本地jar所在的目录
 3.  运行命令
 ```shell
-sh import.sh -u 用户名 -p 密码 -r http://localhost:8081/repository/maven_repo/
+sh mavenImport.sh -u 用户名 -p 密码 -r http://localhost:8081/repository/maven_repo/
 ```
 4. 检查jar是否完全导入
 
